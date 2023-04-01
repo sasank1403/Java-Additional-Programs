@@ -20,7 +20,6 @@ Summay:
 Summary:
 This program creates a list of products and calculates the total sales for each year for all products that contain the word "Tea" in their name using streams and lambda expressions. It uses the Product class to represent each item in the list and has three fields: name, year, and price. The program filters out all products that do not contain the word "Tea" and then groups the remaining products by year and sums up their prices to calculate the total sales for each year. Finally, it prints out the tea totals by year in the console.
 
-
 3.	Group the passengers by age. For the given data - group the passengers into 6 age groups
  0-10, 10-20, 20-30,30-40,40-50,50+
 
